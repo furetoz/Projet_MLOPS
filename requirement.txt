@@ -1,0 +1,7 @@
+# Spécification de la version de Python
+python_version==3.10.8
+
+# Spécification des dépendances
+pandas==1.5.1
+scikit-learn==1.1.3
+
